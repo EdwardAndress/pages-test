@@ -1,5 +1,5 @@
 {% include navbar.html %}
-:star:
+:star::star:
 # Principles for whatever in the stuff
 
 1. Stuff
